@@ -1,4 +1,4 @@
-# kubernetes_Syllabus
+# Kubernetes_Syllabus
 
 SYLLABUS
 ========
