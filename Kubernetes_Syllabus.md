@@ -3,10 +3,10 @@
 
 SYLLABUS
 ========
-●●	Open Source – Docker & Kubernetes
-●●	Docker
-●●	Docker – Overview
-●●	Docker – Installing Docker on Linux
+● Open Source – Docker & Kubernetes
+● Docker
+● Docker – Overview
+●  Docker – Installing Docker on Linux
 ●	Docker – Installation
 ●	Docker – Hub
 ●	Docker – Images
